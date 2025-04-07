@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace hotel.Models
+namespace hotels.Models
 {
     public class Order
     {
